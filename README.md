@@ -2,8 +2,11 @@
 
 Dependencies
 gym (https://gym.openai.com/docs)
+
 numpy
+
 pickle
+
 Install dependencies with pip
 
 Usage
