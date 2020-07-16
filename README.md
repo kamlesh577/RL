@@ -7,6 +7,8 @@ numpy
 
 pickle
 
+Pandas
+
 Install dependencies with pip
 
 Usage
