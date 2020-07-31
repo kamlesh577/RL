@@ -9,6 +9,8 @@ pickle
 
 Pandas
 
+tensorflow
+
 Python
 
 Install dependencies with pip
