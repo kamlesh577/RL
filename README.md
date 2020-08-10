@@ -13,7 +13,7 @@ tensorflow
 
 Python
 
-Install dependencies with pip
+Install dependencies with pip in python
 
 Usage
 Run the program and the AI will start playing the game
