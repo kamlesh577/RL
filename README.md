@@ -5,8 +5,6 @@ gym (https://gym.openai.com/docs)
 
 numpy
 
-pickle
-
 Pandas
 
 tensorflow
