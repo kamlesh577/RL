@@ -11,6 +11,8 @@ tensorflow
 
 Python
 
+keras
+
 Install dependencies with pip in python
 
 Usage
