@@ -1,6 +1,6 @@
 # RL
 
-Dependencies
+Dependencies:
 gym (https://gym.openai.com/docs)
 
 numpy
