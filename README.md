@@ -3,6 +3,7 @@
 Dependencies:
 gym (https://gym.openai.com/docs)
 
+numpy
 
 Pandas
 
