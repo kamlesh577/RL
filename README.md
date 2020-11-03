@@ -1,4 +1,4 @@
-# RL
+# RL.
 
 Dependencies:
 gym (https://gym.openai.com/docs)
